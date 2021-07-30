@@ -1,0 +1,6 @@
+mysql:
+  host: localhost
+  user: user
+  password: password
+  port: 9999
+  database: database-name
