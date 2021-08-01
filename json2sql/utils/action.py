@@ -1,7 +1,6 @@
-from abstract import Json
 import json
 
-class Model(Json):
+class Action(object):
 
 	def __init__(self):
 		pass
